@@ -12,7 +12,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
       with:
         server: konekt.atwebpages.com
-        username: 4011122_moexpense
+        username: 4011122_konekt
         password: ${{ secrets.FTP_PASS }}
         protocol: ftps
         server-dir: konekt.atwebpages.com/
