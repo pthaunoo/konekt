@@ -46,12 +46,12 @@ a.btn{
     border-radius: 20px;
 }
 a.btn-signin{
-    background-color: darkorange;
+    background-color: rgb(255, 0, 170);
     color: white;
 }
 a.btn-register{
     background: transparent;
-    border: 1px solid darkorange;
+    border: 1px solid darkgray;
     color: black;
 }
 a.btn:hover{
