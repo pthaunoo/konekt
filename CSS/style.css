@@ -14,24 +14,24 @@
     padding: 2px 10px;
 }
 .icon-bar{
-    background: darkorange;
+    background: rgb(255, 0, 170);
 }
 li a{
     color: red;
 }
 li a:hover{
-    color: darkorange !important;
+    color: rgb(255, 0, 98) !important;
 }
 .big-text{
     font-size: 55px;
     margin: 20px 0;
-    color: darkorange;
+    color: rgb(255, 0, 170);
 }
 
 .big-text1{
     font-size: 40px;
     margin: 20px 0;
-    color: darkorange;
+    color: rgb(255, 0, 170);
 }
 
 .para-text{
@@ -55,7 +55,7 @@ a.btn-register{
     color: black;
 }
 a.btn:hover{
-    background: darkorange;
+    background: rgb(255, 0, 170);
     border: none;
     color: white;
     box-shadow: 5px 5px 10px #999;
