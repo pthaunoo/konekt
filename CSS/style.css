@@ -20,7 +20,7 @@ li a{
     color: rgb(124, 13, 22);
 }
 li a:hover{
-    color: rgb(255, 0, 98) !important;
+    color: rgb(255, 0, 98);
 }
 .big-text{
     font-size: 55px;
