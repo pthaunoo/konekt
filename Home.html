@@ -38,15 +38,24 @@
         </div> 
     </div>
     </nav>
-    div class="container">
+
+    <div class="container">
         <div class="row">
             <div class="col-sm-6 banner-info">
-                <form class="box" action="Login.php" method="POST" onsubmit="return validationlogin()">
-                    <h2 class="big-text">Sign In</h2>
-                    <input type="text" name="username" placeholder="USERNAME" id="username">
-                    <input type="password" name="password" placeholder="PASSWORD" id="password">
-                    <input type="submit" name="Sign In" id="submit" class="button-submit" value="Sign In">
-                </form>
+                <p class="para-text">Hello Amigos Restaurant,</p>
+                <p class="para-text">Welcome to KONEK-T</p> 
+                <p class="para-text">How can we help you today?</p>
+                <br> 
+                <div class="col-sm-4">
+                    <form class="box" action="Buy.html" method="POST">
+                        <input type="submit" name="Buy" value="Buy">
+                    </form>  
+                </div>
+                <div class="col-sm-8">
+                    <form class="box" action="Sell.html" method="POST">
+                        <input type="submit" name="Sell" value="Sell">
+                    </form> 
+                </div>
             </div>
             
             <div class="col-sm-6 banner-info">
@@ -54,8 +63,6 @@
             </div>
         </div>
     </div>
-
-   
 </header>
 </body>
 </html>
