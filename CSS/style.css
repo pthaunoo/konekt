@@ -81,7 +81,7 @@ a.btn:hover{
     display: block;
     margin: 20px auto;
     text-align: center;
-    border: 3px solid darkorange;
+    border: 3px solid rgb(255, 0, 98);
     padding: 14px 10px;
     width: 400px;
     outline: none;
