@@ -143,11 +143,11 @@ a.btn:hover{
 .box input[type="submit1"]{
 
     border: 0;
-    background: rgb(81, 79, 82);
+    background: rgb(158, 157, 158);
     display: block;
     margin: 10px auto;
     text-align: center;
-    border: 3px solid rgb(81, 79, 82);
+    border: 3px solid rgb(158, 157, 158);
     padding: 14px 35px;
     width: 140px;
     outline: none;
