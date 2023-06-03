@@ -29,6 +29,12 @@ li a:hover{
 }
 
 .big-text1{
+    font-size: 50px;
+    margin: 20px 0;
+    color: rgb(184, 12, 12);
+}
+
+.big-text1{
     font-size: 40px;
     margin: 20px 0;
     color: rgb(255, 0, 170);
