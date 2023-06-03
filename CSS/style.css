@@ -140,6 +140,24 @@ a.btn:hover{
     cursor: pointer;
 }
 
+.box input[type="submit1"]{
+
+    border: 0;
+    background: rgb(81, 79, 82);
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    border: 3px solid rgb(81, 79, 82);
+    padding: 14px 35px;
+    width: 140px;
+    outline: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
 .box input[type="submit"]:hover{
     background: rgb(255, 0, 98);
     border: none;
